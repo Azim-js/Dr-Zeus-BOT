@@ -9,7 +9,7 @@ client.on("ready",()=>{
 })
 
 client.on("message",msg=>{
-    if(msg.content==="hi" || msg.content==="hello"){
+    if(msg.content==="hi zeus" || msg.content==="hello zeus"){
         msg.reply("HEY, SCIENCE IS THE KEY FOR YOUR QUEST !");
     }
 })
