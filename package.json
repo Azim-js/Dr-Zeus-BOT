@@ -1,0 +1,23 @@
+{
+  "name": "dr-zeus-bot",
+  "version": "1.0.0",
+  "description": "a sci-fi bot",
+  "main": "index.js",
+  "dependencies": {
+    "discord.js": "^12.5.3"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Azim-js/Dr-Zeus-BOT.git"
+  },
+  "author": "azim",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Azim-js/Dr-Zeus-BOT/issues"
+  },
+  "homepage": "https://github.com/Azim-js/Dr-Zeus-BOT#readme"
+}
