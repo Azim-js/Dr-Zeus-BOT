@@ -1,4 +1,5 @@
 # Dr-Zeus-BOT
 SCI-FI BOT 
 <hr />
-![drzeus](https://user-images.githubusercontent.com/66790056/125488277-809ff1f6-3aca-4f97-8296-73d9e2ad1ceb.JPG)
+
+![image](https://user-images.githubusercontent.com/66790056/125488578-5f1ab693-ca95-4cc6-87be-b84113837cc2.png)
