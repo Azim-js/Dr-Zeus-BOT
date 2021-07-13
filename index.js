@@ -2,14 +2,16 @@ const Discord=require('discord.js');
 
 const client=new Discord.Client();
 
+const mySecret = process.env[TOKEN]
+
 client.on("ready",()=>{
-    console.log(`LOGGED IN ${client.tag}!`);
+    console.log(`LOGGED IN ${client.user.tag}!`);
 })
 
 client.on("message",msg=>{
-    if(msg.content==="ping"){
-        msg.reply("pong");
+    if(msg.content==="hi" || msg.content==="hello"){
+        msg.reply("HEY, SCIENCE IS THE KEY FOR YOUR QUEST !");
     }
 })
 
-client.login(process.env.TOKEN)
+client.login(mySecret)
